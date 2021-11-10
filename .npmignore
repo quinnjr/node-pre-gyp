@@ -21,3 +21,4 @@ TODO.md
 coverage
 .eslintrc
 cloudformation
+lib/util/nw-pre-gyp
